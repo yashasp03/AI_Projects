@@ -12,7 +12,7 @@ This project implements an AI solution to the classic 8-puzzle problem using the
 - **Priority Queue**: Used to select the next state with the lowest estimated cost (current path cost + heuristic).
 
 
-##Features
+## Features
 
 Implements A* search algorithm to solve the 8-puzzle problem.
 Utilizes Manhattan distance as the heuristic function.
