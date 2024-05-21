@@ -10,7 +10,7 @@ The maze is represented as a grid where each cell can either be open (traversabl
 - **Heuristic Function**: The algorithm uses a heuristic to choose the next cell, typically the Manhattan distance from the current cell to the target cell.
 
 
-##Features
+## Features
 Implements Greedy Best-First Search to solve the maze problem.
 Utilizes Manhattan distance as the heuristic function.
 Computes and displays the path from the start point to the target point.
