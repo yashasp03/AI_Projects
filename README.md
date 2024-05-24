@@ -3,7 +3,7 @@
 The maze is represented as a grid where each cell can either be open (traversable) or closed (blocked). The objective is to find the shortest path from the starting point to the ending point using the Greedy Best-First Search algorithm.
 
 
-## Key Features
+## Key Points
 
 - **Maze Representation**: A grid where open cells can be traversed and closed cells cannot.
 - **Algorithm**: Greedy Best-First Search is used to find the path from the start to the target point.
