@@ -16,11 +16,13 @@ Testing Phase: Evaluates a new document to determine its association with the pr
 Discussion
 
 Topic Characteristics: During training, the model identifies words associated with each topic:
+
 Topic 0 (Artificial Intelligence): Words such as human, intellig, machin, field, associ.
 
 Topic 1 (Football): Words such as play, team, goal, game, ball.
 
 Word Matching Percentage: After testing a new document, the output indicates:
+
 Artificial Intelligence Topic: 50.67% of words match the words associated with artificial intelligence.
 
 Football Topic: 49.32% of words match the words associated with football.
