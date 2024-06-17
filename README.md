@@ -1,11 +1,11 @@
 ## Image Segmentation
 
-Image segmentation involves dividing an image into meaningful regions based on shared visual characteristics such as color, texture, or intensity. This project utilizes pre-built models to classify regions of similar pixels, a critical task with applications in medical imaging, object recognition, image and video compression, automated driving, and more.
+Image segmentation involves dividing an image into meaningful regions based on shared visual characteristics such as color, texture, or intensity. This project classify regions of similar pixels, a critical task with applications in medical imaging, object recognition, image and video compression, automated driving, and more.
 
 
 ## Key Points
 
-Problem Description: The goal is to segment images into distinct regions that share common visual features using pre-built models.
+Problem Description: The goal is to segment images into distinct regions that share common visual features.
 
 Techniques Used: Utilizes instance segmentation to differentiate between different instances of the same category.
 
